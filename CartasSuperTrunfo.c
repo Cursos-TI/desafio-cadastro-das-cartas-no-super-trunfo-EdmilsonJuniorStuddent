@@ -4,7 +4,7 @@
 
 
 int main() {
-    printf("Desafio Super Trunfo - NOVATO\n");
+    printf("Desafio Super Trunfo - Mestre\n");
     
     
     //Atributos da primeira carta
